@@ -3,8 +3,8 @@ to scan the home wifi & get Macaddress
 requirements:- python3.
 for termux:
 
-$git clone 
+$git clone https://github.com/VirtuellerHeiliger/Scanner
 
-$cd 
+$cd Scanner
 
 $python3 Scanner.py -i "whatever your ip or range of ip address"
